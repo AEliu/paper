@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 幻境
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Chao
 language: zh-cn
 timezone: ''
 
@@ -141,5 +141,9 @@ prism_plugin:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+# deploy:
+#   type: git
+#   repo: https://github.com/AEliu/paper.git
+#   branch: master
+#   massage: {{ now('YYYY-MM-DD HH:mm:ss') }}
+
